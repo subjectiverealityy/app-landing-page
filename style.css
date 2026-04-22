@@ -161,7 +161,8 @@ button.button-secondary:hover {
     text-align: left;
   }
   .features img {
-    margin-left: -32px;
+    max-width: 50%;
+    margin-left: 2.1%;
   }
 }
 
