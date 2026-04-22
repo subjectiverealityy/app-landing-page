@@ -15,7 +15,7 @@ body {
   background-position: top center;
   background-size: contain;
 }
-@media (min-width: 600px) {
+@media (min-width:600px) {
   body {
     font-size: 1.2rem;
     background-image: url('https://res.cloudinary.com/dp1eobk1g/image/upload/v1776682333/bg-header-desktop_j5jywh.png')
